@@ -1,3 +1,8 @@
+#Autor : Santiago Peralta
+#Titulo : Ahorcado como temporizador
+#Caso de uso : Juego de ahorcado con interfaz gráfica y temporizador usando hilos 
+
+
 import tkinter as tk
 import random
 import string
@@ -214,3 +219,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
